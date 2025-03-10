@@ -55,7 +55,7 @@ Intuitive Workflow: Users can enter a location, click search, and instantly see 
 Scalability: Future updates may include severe weather alerts and historical weather trends.
 
 Demo of ClimaVista
-<a href=https://drive.google.com/file/d/11AJZRcVOVz0HrFa0ROzWp9mUraYS99mm/view?usp=drive_link>Demo_Video_of_ClimaVista</a>
+Demo_Video_of_ClimaVista
 
 
 Conclusion
