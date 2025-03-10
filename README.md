@@ -1,5 +1,7 @@
 <b>Objectives</b>
+
 Problem Statement
+
 Weather conditions impact daily activities, travel, and event planning. However, many existing weather apps are complex or cluttered, making it difficult for users to get quick and accurate updates.
 Weather Tracker: A simple app to display real-time weather updates for any location. Allow users to search for weather data by city or coordinates. Display current temperature, weather conditions (for example, sunny, rainy), and forecasts. note that it is a individual project.
 Goals
